@@ -1,4 +1,4 @@
-package main.lexer.tree;
+package main.tree;
 
 public interface IdExp extends Expression {
 
